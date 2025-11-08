@@ -1,0 +1,2 @@
+In this repository I have attached all the R codes I used to work on my first chapter (job market paper) - Role of Style in assessing Mutual Fund Performance. I have 3 files in this repository:
+1.Codes to clean the datasets CRSP and Morningstar, 2. Codes for bootstraps both Fama and French (2010) method and Harvey and Liu (2022) method and 3. Codes I wrote to create the tabled and graphs for visualizations.
